@@ -1,0 +1,61 @@
+.header{
+  
+  background:grey;
+}
+
+.intro{
+  text-align:center;
+  color:white;
+  padding:20px;
+  font-family:Roboto;
+  font-size:24px;
+  
+}
+
+.wrapper{
+  margin:20px;
+  display:flex;
+  justify-content:flex-start;
+}
+
+.wrapper a {
+  margin:20px;
+  text-decoration: none;
+  padding:10px;
+  background:#808080;
+  color:white;
+  border-radius: 5px;;
+  font-family:Roboto;
+}
+
+.wrapper a:hover{
+  background:#596673;
+  transition:0.5;
+}
+
+h3{
+  font-family:Roboto;
+}
+
+.form{
+  margin:20px 10px 0 0;
+}
+
+.wrapperUser{
+  display:flex;
+  
+}
+
+.addUserTitle {
+  height:50px;
+  width:420px;
+  margin-bottom:15px;
+}
+.userTitle {
+  margin-left:20px;
+}
+
+.members{
+  margin-top:20px;
+}
+
